@@ -17,7 +17,8 @@ The output file must contain a sequence of vertex keys obtained by a direct left
 Выходной файл должен содержать последовательность ключей вершин, полученную прямым левым обходом дерева.
 
 Example: 
-input.txt	
+
+input.txt:
 
 0
 
