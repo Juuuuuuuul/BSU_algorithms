@@ -11,17 +11,12 @@ Output data format: Print a single number — the sum of the keys in the constru
 Формат выходных данных: Выведите единственное число — сумму ключей в построенном дереве.
 
 Example:
-
 input.txt:
 5
-
 2
-
 4
-
 1 
-
 8 
-
 7
+
 output.txt: 27
