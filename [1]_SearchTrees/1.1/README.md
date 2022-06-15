@@ -14,7 +14,7 @@ Example:
 
 input.txt:
 5 
-2
+\n 2
 4
 1
 8
