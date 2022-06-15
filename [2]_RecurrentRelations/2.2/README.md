@@ -2,7 +2,7 @@
 
 Input data format: The first line of the input file contains two non-negative integers N and K (0 =< K =< N =< 1000).
 
-Output data format Output: one number - the answer to the problem. Since the answer can be very large, it is necessary to output it modulo 10^9 + 7.
+Output data format: Output one number - the answer to the problem. Since the answer can be very large, it is necessary to output it modulo 10^9 + 7.
 
 🔸 [РУС] Дано число N. Необходимо определить, сколько есть бинарных строк длины N, в которых ровно K единиц.
 
