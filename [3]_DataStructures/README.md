@@ -1,4 +1,4 @@
-🔸 [ENG] Recurrent relations
+🔸 [ENG] DataStructures
 
 ✅ 1. Implement binary search on an array of numbers sorted in non-decreasing order. It is forbidden to use ready-made binary search functions from standard libraries
 
@@ -8,7 +8,7 @@
 h(x, i) = ((x mod m) + c ⋅ i) mod m sets a linear sequence of free cell samples, where x is the key, i is the number of attempts (attempts are numbered from zero), c is a constant.
 N keys were added to the table sequentially. If the key is already in the table, there is no re-addition. Determine which key is stored in each cell of the table at the end of all operations.s. It is necessary to construct the maximum length sequence of parallelepipeds embedded in each other. We assume that the parallelepiped is marked if a i,k ≤ a j,k
 
-🔸 [РУС] Рекуррентные соотношения
+🔸 [РУС] Структуры данных
 
 ✅ 1. Реализуйте бинарный поиск на массиве чисел, отсортированном в неубывающем порядке. Запрещается использование готовых функций бинарного поиска из стандартных библиотек
 
