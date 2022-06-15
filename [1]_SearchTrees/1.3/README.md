@@ -1,4 +1,4 @@
-[ENG] Use a set of keys to build a binary search tree. Delete the key from it (by right deletion), if it is in the tree. Perform a straight left traversal of the resulting tree.
+🔸 [ENG] Use a set of keys to build a binary search tree. Delete the key from it (by right deletion), if it is in the tree. Perform a straight left traversal of the resulting tree.
 
 Input data format
 The first line contains an integer — the key that needs to be removed from the tree.
@@ -10,7 +10,7 @@ Recall that in the search tree, all keys are unique by definition, so when you t
 Output data format
 Print the sequence of vertex keys obtained by a direct left traversal of the tree.
 
-[РУС] По набору ключей постройте бинарное поисковое дерево. Удалите из него ключ (правым удалением), если он есть в дереве. Выполните прямой левый обход полученного дерева.
+🔸 [РУС] По набору ключей постройте бинарное поисковое дерево. Удалите из него ключ (правым удалением), если он есть в дереве. Выполните прямой левый обход полученного дерева.
 
 Формат входных данных
 В первой строке записано целое число — ключ, который нужно удалить из дерева.
