@@ -18,5 +18,4 @@ input.txt:
 1 
 8 
 7
-
 output.txt: 27
