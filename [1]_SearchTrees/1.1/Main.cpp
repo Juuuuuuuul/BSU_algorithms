@@ -29,3 +29,4 @@ int main()
 	out << s;
 	return 0;
 }
+
