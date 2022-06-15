@@ -13,10 +13,10 @@ Output data format: Print a single number — the sum of the keys in the constru
 Example:
 
 input.txt:
-5 
-\n 2
+5
+2
 4
-1
-8
+1 
+8 
 7
 output.txt: 27
