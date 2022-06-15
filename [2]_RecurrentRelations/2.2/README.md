@@ -10,5 +10,5 @@ Output data format Output one number - the answer to the problem. Since the answ
 
 Формат выходных данныхВыведите одно число - ответ на задачу. Так как ответ может быть очень большим, необходимо его вывести по модулю 10^9 + 7.
 
-Example: input.txt: 7 2
-output.txt: 21
+Example: standard input: 7 2
+result: 21
