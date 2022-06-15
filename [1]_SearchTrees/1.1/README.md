@@ -14,9 +14,14 @@ Example:
 
 input.txt:
 5
+
 2
+
 4
+
 1 
+
 8 
+
 7
 output.txt: 27
